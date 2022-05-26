@@ -1,2 +1,2 @@
 # Diplomado_Desarrollo_Web
-Repositorio que se utilizará para cargar los ejercicios 
+Repositorio que se utilizará para cargar los ejercicios realizados 
